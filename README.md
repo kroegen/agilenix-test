@@ -1,9 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Configuration
-Before running app add your github token to .env
+Before running app install dependencies and add your github token to .env
 ```
-mv .env.example .env.local
+npm i
+cp .env.example .env.local
 ```
 
 ## Available Scripts

@@ -15,6 +15,7 @@ const Img = styled.img`
   height: 80px;
   width: 80px;
   margin-right: 20px;
+  flex-shrink: 0;
 `;
 
 const Body = styled.div`
