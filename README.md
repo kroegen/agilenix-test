@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+```
+A simple graphql app. Fetches the top n of github's profiles in a specific location and displays them as list
+```
+![Screenshot](public/info.png?raw=true "Screenshot")
+
 ## Configuration
 Before running app install dependencies and add your github token to .env
 ```
